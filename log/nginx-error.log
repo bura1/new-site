@@ -1,0 +1,1 @@
+2021/09/23 18:30:35 [error] 12610#12610: *11 open() "/srv/www/new-site/public_html/favicon.ico" failed (2: No such file or directory), client: 192.168.50.1, server: new-site.test, request: "GET /favicon.ico HTTP/1.1", host: "new-site.test", referrer: "http://new-site.test/"
